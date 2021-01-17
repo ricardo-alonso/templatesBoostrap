@@ -1,0 +1,21 @@
+.miEstilo1{
+    background-color: purple;
+}
+
+.miEstilo2{
+    background-color: skyblue;
+}
+
+
+.miEstilo3{
+    background-color: olivedrab;
+}
+
+.miEstilo4{
+    background-color: navy;
+    color: #fff;
+}
+
+.bordeado{
+    border: 1px solid red;
+}
